@@ -1,0 +1,4 @@
+{
+  "required_string": "Required string value",
+  "required_int": 42.0
+}
